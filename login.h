@@ -6,6 +6,7 @@ void login()
     char pword[10],code[10];
     char user[10]="username";
     char pass[10]="password";
+    system("cls");//Clear the screen
     do
 {
 
@@ -27,9 +28,9 @@ void login()
 	//scanf("%s",&pword);
 		if(strcmp(uname,"username")==0 && strcmp(pword,"password")==0)
 	{
-	printf("  \n\n\n        YOU ARE LOGGED IN. WELCOME TO OUR BIKE RENTING SYSTEM !");
+	printf("  \n\n\n        YOU ARE LOGGED IN SUCCESFULLY. WELCOME TO OUR BIKE RENTING SYSTEM !");
 	printf("\n\n\n\t\t\t\tPress any key to continue...");
-	getch();//holds the screen
+    getch();
 	break;
 	}
 	else

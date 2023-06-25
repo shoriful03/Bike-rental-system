@@ -1,0 +1,6 @@
+1 honda 522 80.00
+101 Yamaha FZS 0.00
+102 Suzuki Gixxer 100.00
+103 TVS Apache 0.00
+11 Yamaha R15 0.00
+104 TVS G4 70.00
